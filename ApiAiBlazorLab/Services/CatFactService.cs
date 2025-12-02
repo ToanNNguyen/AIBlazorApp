@@ -16,7 +16,7 @@ namespace ApiAiBlazorLab.Services
         {
             var url = "https://catfact.ninja/fact";
             var json = await _http.GetFromJsonAsync<CatFacts>(url);
-            return json?.fact ?? "No cat fact received.";
+            return TextUtilities.NormalizeFact(json?.fact);
         }
     }
 }

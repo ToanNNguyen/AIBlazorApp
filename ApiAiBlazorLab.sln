@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiAiBlazorLab", "ApiAiBlazorLab\ApiAiBlazorLab.csproj", "{4A8854AF-80FA-413C-83B6-038D61782E8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiAiBlazorLab.Tests", "ApiAiBlazorLab.Tests\ApiAiBlazorLab.Tests.csproj", "{03F982B7-1C23-4FBB-977E-43E6B0B62CB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{4A8854AF-80FA-413C-83B6-038D61782E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A8854AF-80FA-413C-83B6-038D61782E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A8854AF-80FA-413C-83B6-038D61782E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03F982B7-1C23-4FBB-977E-43E6B0B62CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F982B7-1C23-4FBB-977E-43E6B0B62CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F982B7-1C23-4FBB-977E-43E6B0B62CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F982B7-1C23-4FBB-977E-43E6B0B62CB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -27,3 +27,4 @@ C:\Users\pvak4\OneDrive\Documents\ApiAiBlazorLab\ApiAiBlazorLab\obj\Debug\net8.0
 C:\Users\pvak4\OneDrive\Documents\ApiAiBlazorLab\ApiAiBlazorLab\obj\Debug\net8.0\ApiAiBlazorLab.pdb
 C:\Users\pvak4\OneDrive\Documents\ApiAiBlazorLab\ApiAiBlazorLab\obj\Debug\net8.0\ApiAiBlazorLab.genruntimeconfig.cache
 C:\Users\pvak4\OneDrive\Documents\ApiAiBlazorLab\ApiAiBlazorLab\obj\Debug\net8.0\ref\ApiAiBlazorLab.dll
+C:\Users\pvak4\OneDrive\Documents\ApiAiBlazorLab\ApiAiBlazorLab\obj\Debug\net8.0\ApiAiBlazorLab.sourcelink.json
